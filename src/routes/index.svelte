@@ -10,24 +10,6 @@
 		}
 	}
 
-	const items = [
-		{
-			label: 'What is Couchbase?',
-			slug: 'what',
-			desc: 'Learn key concepts for Couchbase Capella'
-		},
-		{
-			label: 'Next Steps',
-			slug: 'next-steps',
-			desc: '** DESC GOES HERE **'
-		},
-		{
-			label: 'List Documents',
-			slug: 'list',
-			desc: 'Fetch a list of documents',
-		},
-	]
-
 </script>
 
 <script lang="ts">
