@@ -56,6 +56,7 @@
 	{/each}
 </div>
 
+
 <style>
 	.wrapper {
 			display: flex;
